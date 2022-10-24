@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Tim&#39;s blog</title>
+    <link>https://apptimdev.github.io/blog/categories/technology/</link>
+    <description>Recent content in Technology on Tim&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 24 Oct 2022 21:55:35 +0800</lastBuildDate><atom:link href="https://apptimdev.github.io/blog/categories/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Ssh</title>
+      <link>https://apptimdev.github.io/blog/post/linux-ssh/</link>
+      <pubDate>Mon, 24 Oct 2022 21:55:35 +0800</pubDate>
+      
+      <guid>https://apptimdev.github.io/blog/post/linux-ssh/</guid>
+      <description>
+        
+          
+            Insert Lead paragraph here.
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>bundle sample</title>
+      <link>https://apptimdev.github.io/blog/post/2022/bundle-sample/bundle/</link>
+      <pubDate>Mon, 24 Oct 2022 21:30:51 +0800</pubDate>
+      
+      <guid>https://apptimdev.github.io/blog/post/2022/bundle-sample/bundle/</guid>
+      <description>
+        
+          
+            The image below is part of the bundle of this page, and is located at content/post/bundle/building.png. Because it&#39;s within this page&#39;s bundle, the markup for the image only has to specify the image&#39;s filename, building.png. Insert Lead paragraph here. 
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Linux basic commands</title>
+      <link>https://apptimdev.github.io/blog/post/2022/linux-basic/</link>
+      <pubDate>Mon, 24 Oct 2022 21:30:51 +0800</pubDate>
+      
+      <guid>https://apptimdev.github.io/blog/post/2022/linux-basic/</guid>
+      <description>
+        
+          
+            Insert Lead paragraph here.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
