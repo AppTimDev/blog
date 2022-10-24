@@ -2,9 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://apptimdev.github.io/blog/categories/</loc>
+    <loc>https://apptimdev.github.io/blog/dir1/aa/</loc>
+    <lastmod>2022-10-24T15:11:51+08:00</lastmod>
+  </url><url>
+    <loc>https://apptimdev.github.io/blog/dir1/</loc>
+    <lastmod>2022-10-24T15:11:51+08:00</lastmod>
   </url><url>
     <loc>https://apptimdev.github.io/blog/</loc>
+    <lastmod>2022-10-24T15:11:51+08:00</lastmod>
+  </url><url>
+    <loc>https://apptimdev.github.io/blog/dir2/</loc>
+    <lastmod>2022-10-24T15:11:39+08:00</lastmod>
+  </url><url>
+    <loc>https://apptimdev.github.io/blog/dir2/second/</loc>
+    <lastmod>2022-10-24T15:11:39+08:00</lastmod>
+  </url><url>
+    <loc>https://apptimdev.github.io/blog/second/</loc>
+    <lastmod>2022-10-24T15:11:39+08:00</lastmod>
+  </url><url>
+    <loc>https://apptimdev.github.io/blog/dir2/first/</loc>
+    <lastmod>2022-10-24T15:10:53+08:00</lastmod>
+  </url><url>
+    <loc>https://apptimdev.github.io/blog/first/</loc>
+    <lastmod>2022-10-24T15:10:53+08:00</lastmod>
+  </url><url>
+    <loc>https://apptimdev.github.io/blog/categories/</loc>
   </url><url>
     <loc>https://apptimdev.github.io/blog/tags/</loc>
   </url>
