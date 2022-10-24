@@ -24,14 +24,14 @@
     
     <item>
       <title>bundle sample</title>
-      <link>https://apptimdev.github.io/blog/post/2022/bundle-sample/bundle/</link>
+      <link>https://apptimdev.github.io/blog/post/bundle-sample/bundle/</link>
       <pubDate>Mon, 24 Oct 2022 21:30:51 +0800</pubDate>
       
-      <guid>https://apptimdev.github.io/blog/post/2022/bundle-sample/bundle/</guid>
+      <guid>https://apptimdev.github.io/blog/post/bundle-sample/bundle/</guid>
       <description>
         
           
-            The image below is part of the bundle of this page, and is located at content/post/bundle/building.png. Because it&#39;s within this page&#39;s bundle, the markup for the image only has to specify the image&#39;s filename, building.png. Insert Lead paragraph here. 
+            Insert Lead paragraph here.
           
           
         
@@ -40,10 +40,10 @@
     
     <item>
       <title>Linux basic commands</title>
-      <link>https://apptimdev.github.io/blog/post/2022/linux-basic/</link>
+      <link>https://apptimdev.github.io/blog/post/linux-basic/</link>
       <pubDate>Mon, 24 Oct 2022 21:30:51 +0800</pubDate>
       
-      <guid>https://apptimdev.github.io/blog/post/2022/linux-basic/</guid>
+      <guid>https://apptimdev.github.io/blog/post/linux-basic/</guid>
       <description>
         
           
